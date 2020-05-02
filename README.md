@@ -4,10 +4,25 @@ This autoclicker was made in the Python programming language.
 
 ## How to run this script?
 
-* install [python]<https://www.python.org/>
-* install [pip]<https://pip.pypa.io/en/stable/installing/>
-* Run cmd and write 
+* install **[python]<https://www.python.org/>**
+* install **[pip]<https://pip.pypa.io/en/stable/installing/>**
+* Run cmd and write: 
 
 `pip install pyautogui`
 
 `pip install keyboard`
+
+* Now write: 
+
+`cd <specify the path to the folder where AutoClicker.py is located>`
+
+* Now write in cmd:
+
+`python AutoClicker.py`
+
+* Activation / Deactivation **F6**.To end, press **F3**.
+* You can test the script **[here]<https://orteil.dashnet.org/cookieclicker/>**.
+
+# Screenshots
+
+![screen](https://prnt.sc/s9mv4g)
