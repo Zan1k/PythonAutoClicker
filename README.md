@@ -25,4 +25,5 @@ This autoclicker was made in the Python programming language.
 
 # Screenshots
 
+[!image](https://prnt.sc/s9mxuf)
 
