@@ -4,8 +4,8 @@ This autoclicker was made in the Python programming language.
 
 ## How to run this script?
 
-* install [python]<https://www.python.org/>
-* install [pip]<https://pip.pypa.io/en/stable/installing/>
+* install **[python](https://www.python.org/)**.
+* install **[pip](https://pip.pypa.io/en/stable/installing/)**.
 * Run cmd and write: 
 
 `pip install pyautogui`
@@ -21,7 +21,7 @@ This autoclicker was made in the Python programming language.
 `python AutoClicker.py`
 
 * Activation / Deactivation **F6**.To end, press **F3**.
-* You can test the script [here]<https://orteil.dashnet.org/cookieclicker/>.
+* You can test the script **[here](https://orteil.dashnet.org/cookieclicker/)**.
 
 # Screenshots
 
