@@ -1,2 +1,4 @@
 # PythonAutoClicker
-AutoClicker
+
+This autoclicker was made in the Python programming language.
+
