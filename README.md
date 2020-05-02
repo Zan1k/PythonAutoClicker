@@ -8,7 +8,7 @@ This autoclicker was made in the Python programming language.
 * install **[pip](https://pip.pypa.io/en/stable/installing/)**.
 * Run cmd and write: 
 
-`pip install pyautogui`
+dir pip install pyautogui
 
 `pip install keyboard`
 
