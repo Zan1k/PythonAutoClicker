@@ -23,7 +23,7 @@ This autoclicker was made in the Python programming language.
 * Activation / Deactivation **F6**.To end, press **F3**.
 * You can test the script **[here](https://orteil.dashnet.org/cookieclicker/)**.
 
-* Special thanks to **[https://github.com/komunre](Komunre)** for help in optimizing the code.
+* Special thanks to **[Komunre](https://github.com/komunre)** for help in optimizing the code.
 
 # Screenshots
 
