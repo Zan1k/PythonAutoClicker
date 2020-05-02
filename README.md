@@ -1,2 +1,2 @@
-#### PythonAutoClicker
+# PythonAutoClicker
 AutoClicker
