@@ -25,7 +25,13 @@ This autoclicker was made in the Python programming language.
 
 * Special thanks to **[Komunre](https://github.com/komunre)** for help in optimizing the code.
 
-# Screenshots
+## Screenshots
 
 ![image](https://i.imgur.com/3kj1YuM.png)
 
+# What is AutoClicker v2?
+
+* This is a new version of AutoClicker that works much faster than the old one.
+
+## Sreeenshots
+![image](https://i.imgur.com/MVJGNy5.png)
