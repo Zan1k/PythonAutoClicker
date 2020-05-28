@@ -31,7 +31,7 @@ This autoclicker was made in the Python programming language.
 
 # What is AutoClicker v2?
 
-* This is a new version of AutoClicker that works much faster than the old one.
+ This is a new version of AutoClicker that works much faster than the old one.
 
 ## How to run this script?
 
